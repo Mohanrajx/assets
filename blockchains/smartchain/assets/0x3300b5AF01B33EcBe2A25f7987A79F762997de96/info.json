@@ -1,1 +1,11 @@
-
+{
+  "name": "USDT bep20",
+  "website": "http://tirunelveli.com/",
+  "description": "This is new token to deploy in web3 environment todo transaction by decentralised environment",
+  "explorer": "https://bscscan.com/token/0x3300b5AF01B33EcBe2A25f7987A79F762997de96",
+  "type": "BEP20",
+  "symbol": "USDT bep20",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x3300b5AF01B33EcBe2A25f7987A79F762997de96"
+}

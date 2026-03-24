@@ -1,7 +1,7 @@
 {
   "name": "Tirunelveli Token",
-  "website": "https://tirunelveli.com/",
-  "description": "Tirunelveli Token is a BEP20 token deployed on the Binance Smart Chain, designed to support decentralized transactions in a Web3 environment.",
+  "website": "http://tirunelveli.com/",
+  "description": "Tirunelveli Token is a BEP20 token deployed on Binance Smart Chain, designed to support decentralized transactions in a Web3 environment.",
   "explorer": "https://bscscan.com/token/0x3300b5AF01B33EcBe2A25f7987A79F762997de96",
   "type": "BEP20",
   "symbol": "TNV",
@@ -10,12 +10,12 @@
   "id": "0x3300b5AF01B33EcBe2A25f7987A79F762997de96",
   "links": [
     {
-      "name": "website",
-      "url": "http://tirunelveli.com/"
+      "name": "github",
+      "url": "https://github.com/MOHANRAJX"
     },
     {
-      "name": "bscscan",
-      "url": "https://bscscan.com/token/0x3300b5AF01B33EcBe2A25f7987A79F762997de96"
+      "name": "telegram",
+      "url": "https://t.me/hackergmr"
     }
   ],
   "tags": ["defi"]

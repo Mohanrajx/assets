@@ -2,7 +2,7 @@
   "name": "Luxindro Token",
   "website": "https://luxindro.in/",
   "description": "Luxindro Token is a BEP20 token deployed on Binance Smart Chain, designed to support decentralized transactions in a Web3 environment.",
-  "explorer": "https://bscscan.com/address/0x3300b5AF01B33EcBe2A25f7987A79F762997de96",
+  "explorer": "https://bscscan.com/token/0x3300b5AF01B33EcBe2A25f7987A79F762997de96",
   "type": "BEP20",
   "symbol": "TNV",
   "decimals": 18,
